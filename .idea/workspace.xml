@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4dfe467-15c6-4b52-a3a8-ab75bf447b1e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="36IOYIpYX7E1DfMLOkNc3nzRRTW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Gradle.Compiler [:Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programming/Java/Compiler/tests/HTML/add_product.html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\Java\Compiler\src" />
+      <recent name="D:\Programming\Java\Compiler\Grammar\HTML" />
+      <recent name="D:\Programming\Java\Compiler\Grammar\Python" />
+      <recent name="D:\Programming\Java\Compiler\Grammar\CSS" />
+      <recent name="D:\Programming\Java\Compiler\Grammar" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4dfe467-15c6-4b52-a3a8-ab75bf447b1e" name="Changes" comment="" />
+      <created>1764690667104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764690667104</updated>
+      <workItem from="1764690668173" duration="1260000" />
+      <workItem from="1764756464472" duration="429000" />
+      <workItem from="1764779473285" duration="3711000" />
+      <workItem from="1765354135056" duration="1544000" />
+      <workItem from="1765360692105" duration="416000" />
+      <workItem from="1765433647917" duration="582000" />
+      <workItem from="1765440685473" duration="2342000" />
+      <workItem from="1765444422867" duration="255000" />
+      <workItem from="1765444724368" duration="1091000" />
+      <workItem from="1765445949356" duration="8119000" />
+      <workItem from="1765487375711" duration="171000" />
+      <workItem from="1765487925899" duration="573000" />
+      <workItem from="1765489286634" duration="376000" />
+      <workItem from="1765695027202" duration="447000" />
+      <workItem from="1765695662023" duration="209000" />
+      <workItem from="1765701391186" duration="9000" />
+      <workItem from="1765701408151" duration="3786000" />
+      <workItem from="1765842159305" duration="439000" />
+      <workItem from="1765843980006" duration="6380000" />
+      <workItem from="1765890884130" duration="2400000" />
+      <workItem from="1765955449623" duration="3319000" />
+      <workItem from="1766148824975" duration="412000" />
+      <workItem from="1766153505319" duration="2360000" />
+      <workItem from="1766156716294" duration="990000" />
+      <workItem from="1766236358110" duration="4076000" />
+      <workItem from="1766243523472" duration="715000" />
+      <workItem from="1766393734478" duration="130000" />
+      <workItem from="1766411337806" duration="9293000" />
+      <workItem from="1766614278149" duration="810000" />
+      <workItem from="1766840367263" duration="8481000" />
+      <workItem from="1766908639819" duration="6928000" />
+      <workItem from="1767284039216" duration="3412000" />
+      <workItem from="1767288598483" duration="483000" />
+      <workItem from="1767289104888" duration="1640000" />
+      <workItem from="1767355807800" duration="15517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
