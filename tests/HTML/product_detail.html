@@ -1,0 +1,83 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ product.name }} - Product Details{% endblock %}
+
+{% block content %}
+<div class="product-detail-container">
+    <div class="breadcrumb">
+        <a href="{{ url_for('index') }}">Products</a> &gt;
+        <span>{{ product.name }}</span>
+    </div>
+
+    <div class="product-detail">
+        <div class="product-detail-image">
+            <img src="{{ product.image_url }}" alt="{{ product.name }}">
+            <div class="product-status {{ 'in-stock' if product.in_stock else 'out-of-stock' }}">
+                {{ 'In Stock' if product.in_stock else 'Out of Stock' }}
+            </div>
+        </div>
+
+        <div class="product-detail-info">
+            <div class="product-category">{{ product.category }}</div>
+            <h1>{{ product.name }}</h1>
+
+            <div class="product-price-large">${{ "%.2f"|format(product.price) }}</div>
+
+            <div class="product-description-full">
+                <h3><i class="fas fa-info-circle"></i> Description</h3>
+                <p>{{ product.description or "No description provided." }}</p>
+            </div>
+
+            <div class="product-meta">
+                <div class="meta-item">
+                    <i class="fas fa-calendar-alt"></i>
+                    <div>
+                        <strong>Added on:</strong>
+                        <span>{{ product.created_at.strftime('%B %d, %Y') }}</span>
+                    </div>
+                </div>
+
+                <div class="meta-item">
+                    <i class="fas fa-id-badge"></i>
+                    <div>
+                        <strong>Product ID:</strong>
+                        <span>#{{ product.id }}</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="product-actions">
+                <a href="{{ url_for('index') }}" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back to Products
+                </a>
+                <a href="{{ url_for('delete_product', product_id=product.id) }}" class="btn btn-danger">
+                    <i class="fas fa-trash"></i> Delete Product
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="related-actions">
+    <h2>Product Management</h2>
+    <div class="action-cards">
+        <div class="action-card">
+            <i class="fas fa-edit fa-2x"></i>
+            <h3>Edit Product</h3>
+            <p>Update product details (Note: Edit functionality would be implemented here)</p>
+            <button class="btn btn-primary" onclick="alert('Edit functionality would be implemented in a full application')">
+                Edit Product
+            </button>
+        </div>
+
+        <div class="action-card">
+            <i class="fas fa-chart-line fa-2x"></i>
+            <h3>View Analytics</h3>
+            <p>See how this product is performing (Note: Analytics would be implemented here)</p>
+            <button class="btn btn-primary" onclick="alert('Analytics functionality would be implemented in a full application')">
+                View Analytics
+            </button>
+        </div>
+    </div>
+</div>
+{% endblock %}
