@@ -1,4 +1,4 @@
-package AST;
+package ASTK;
 
 public abstract class ASTNode {
     public String NodeName;

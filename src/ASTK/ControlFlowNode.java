@@ -1,4 +1,4 @@
-package AST;
+package ASTK;
 
 public class ControlFlowNode extends StatementNode{
 

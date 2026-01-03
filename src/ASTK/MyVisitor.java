@@ -1,4 +1,4 @@
-package AST;
+package ASTK;
 
 import antlr.FlaskParser;
 import antlr.FlaskParserBaseVisitor;

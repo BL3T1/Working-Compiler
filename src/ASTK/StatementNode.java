@@ -1,4 +1,4 @@
-package AST;
+package ASTK;
 
 public abstract class StatementNode extends ASTNode {
 

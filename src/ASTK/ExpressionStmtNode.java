@@ -1,4 +1,4 @@
-package AST;
+package ASTK;
 
 public class ExpressionStmtNode extends StatementNode {
     public ExpressionNode expression;
